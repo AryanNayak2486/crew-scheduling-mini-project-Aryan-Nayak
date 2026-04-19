@@ -1,0 +1,6 @@
+matplotlib
+numpy
+networkx
+jupyterlab
+# Note: Using built-in tracemalloc for memory tracking to ensure 
+# stability across different Jupyter environments.
